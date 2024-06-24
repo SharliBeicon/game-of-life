@@ -1,5 +1,5 @@
 use crate::components::*;
-use bevy::{prelude::*, reflect::List};
+use bevy::prelude::*;
 use rand::prelude::*;
 
 pub const SPRITE_SIZE: f32 = 16.0;
